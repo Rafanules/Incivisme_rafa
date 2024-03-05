@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515576184217",
+    "project_id": "incivisme-rafa",
+    "storage_bucket": "incivisme-rafa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515576184217:android:a502ed933938153528a708",
+        "android_client_info": {
+          "package_name": "com.example.proba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515576184217-ncoeae3v5mp9htn6h7m1rqgk45ti9crk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvw1VdqIE9Hy5_R01uFIefPE26xDAg2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515576184217-ncoeae3v5mp9htn6h7m1rqgk45ti9crk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
